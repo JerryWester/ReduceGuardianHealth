@@ -1,3 +1,9 @@
-displayName = Reduce Dungeon Guardian Health
 author = JerryWester
 version = 1.0.0
+displayName = Reduce Dungeon Guardian Health
+homepage = https://github.com/JerryWester/ReduceGuardianHealth
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
