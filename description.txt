@@ -1,0 +1,1 @@
+Pretty self explanatory. Reduces the Dungeon Guardian's health from 9999 to 999. Mostly made because AlchemistNPC adds drops from the Dungeon Guardian.

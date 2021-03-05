@@ -1,0 +1,3 @@
+displayName = Reduce Dungeon Guardian Health
+author = JerryWester
+version = 1.0.0
